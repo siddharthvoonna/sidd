@@ -1,0 +1,3 @@
+cd "cd_document"
+mkdir my_directory
+ls 
